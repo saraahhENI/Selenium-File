@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<suite name = "form test Suite">
+   <test name = "passant test">
+      <classes>
+         <class name = "Passant" />
+      </classes>
+   </test>
+   <test name = "non passant test">
+      <classes>
+         <class name = "NonPassant" />
+      </classes>
+   </test>
+</suite>
+
